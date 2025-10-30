@@ -1,8 +1,8 @@
-![Build docker base image (dev)](https://github.com/outflanknl/RedELK/workflows/Build%20docker%20base%20image%20(dev)/badge.svg?branch=maindev)
-![Build docker elasticsearch image (dev)](https://github.com/outflanknl/RedELK/workflows/Build%20docker%20elasticsearch%20image%20(dev)/badge.svg?branch=maindev)
-![Build docker jupyter image (dev)](https://github.com/outflanknl/RedELK/workflows/Build%20docker%20jupyter%20image%20(dev)/badge.svg?branch=maindev)
-![Build docker kibana image (dev)](https://github.com/outflanknl/RedELK/workflows/Build%20docker%20kibana%20image%20(dev)/badge.svg?branch=maindev)
-![Build docker logstash image (dev)](https://github.com/outflanknl/RedELK/workflows/Build%20docker%20logstash%20image%20(dev)/badge.svg?branch=maindev)
+[![Build docker base image (dev)](https://github.com/outflanknl/RedELK/actions/workflows/docker-build-dev-base.yml/badge.svg)](https://github.com/outflanknl/RedELK/actions/workflows/docker-build-dev-base.yml)
+[![Build docker elasticsearch image (dev)](https://github.com/outflanknl/RedELK/actions/workflows/docker-build-dev-elasticsearch.yml/badge.svg?branch=develop)](https://github.com/outflanknl/RedELK/actions/workflows/docker-build-dev-elasticsearch.yml)
+[![Build docker jupyter image (dev)](https://github.com/outflanknl/RedELK/actions/workflows/docker-build-dev-jupyter.yml/badge.svg?branch=develop)](https://github.com/outflanknl/RedELK/actions/workflows/docker-build-dev-jupyter.yml)
+[![Build docker kibana image (dev)](https://github.com/outflanknl/RedELK/actions/workflows/docker-build-dev-kibana.yml/badge.svg?branch=develop)](https://github.com/outflanknl/RedELK/actions/workflows/docker-build-dev-kibana.yml)
+[![Build docker logstash image (dev)](https://github.com/outflanknl/RedELK/actions/workflows/docker-build-dev-logstash.yml/badge.svg?branch=develop)](https://github.com/outflanknl/RedELK/actions/workflows/docker-build-dev-logstash.yml)
 
 Red Team's SIEM - tool for Red Teams for tracking and alarming about Blue Team activities as well as enhanced usability in long term operations.
 
